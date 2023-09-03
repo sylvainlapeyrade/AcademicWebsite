@@ -85,7 +85,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in Game Artificial Intelligence at [Clermont Auvergne University](https://www.uca.fr/) at the [LIMOS research unit](https://limos.fr/) in Clermont-Ferrand, France. My thesis is entitled "*Reasoning with Ontologies in real-time for Non-Player Characters (NPC) Artificial Intelligence in games*".
+I am a PhD student in Game Artificial Intelligence at [Clermont Auvergne University](https://www.uca.fr/) in Clermont-Ferrand, France. My thesis is entitled "*Reasoning with Ontologies in real-time for Non-Player Characters (NPC) Artificial Intelligence in games*".
 
 I am trying to improve Non-Player Character (NPC) decision making in games through Logic Programming (LP) and ontologies, using a [Prolog inference engine](https://www.swi-prolog.org/) and the [Unity game engine](https://unity.com/). This thesis involves a research collaboration with the independent game studio [Wako Factory](https://www.wakofactory.com/) to test our approach.
 
