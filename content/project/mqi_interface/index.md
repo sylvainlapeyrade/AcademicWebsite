@@ -1,6 +1,6 @@
 ---
 title: SWI-Prolog - C# Interface
-summary: Interface based on the MQI for connecting SWI-Prolog with C# applications
+summary: Interface based on the MQI for connecting SWI-Prolog with C# applications.
 tags:
 - Development
 date: "2022-10-03"

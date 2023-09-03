@@ -31,11 +31,11 @@ education:
   - course: PhD Game Artificial Intelligence
     institution: LIMOS - Clermont Auvergne University, France
     year: 2023
-  - course: MSc Computer Science, Networks & Telecommunications
+  - course: MSc Computer Science
     institution: UPSSITECH - Toulouse University, France
     year: 2020
   - course: Erasmus Computer Science
-    institution: Linköping Universitet, Sweden
+    institution: Linköping University, Sweden
     year: 2019
 
 # Social/Academic Networking
