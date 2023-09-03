@@ -27,17 +27,17 @@ content:
   # Contact details (edit or remove options as required)
   # email: test@example.org
   # phone:  888 888 88 88
-  address:
-    street: 1 Rue de la Chebarde
-    city: Aubière
-    region: Puy-de-Dôme
-    postcode: '63178'
-    country: France 
-    country_code: FR
+  # address:
+  #   # street:
+  #   city:
+  #   region:
+  #   postcode:
+  #   country: Canada
+  #   country_code: CA
   coordinates:
-    latitude: '45.75932551148564'
-    longitude: '3.1110699118180145'
-  directions: ISIMA/LIMOS Building -- Office B208
+    latitude: '43.65358'
+    longitude: '-79.38404'
+  # directions: 
   # office_hours:
     # - 'Monday 10:00 to 13:00'
     # - 'Wednesday 09:00 to 10:00'
