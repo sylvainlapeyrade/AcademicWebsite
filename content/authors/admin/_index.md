@@ -85,8 +85,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in Game Artificial Intelligence at [Clermont Auvergne University](https://www.uca.fr/) in Clermont-Ferrand, France. My thesis is entitled "*Reasoning with Ontologies in real-time for Non-Player Characters (NPC) Artificial Intelligence in games*".
+I am a **Data Scientist** in Toronto, Canada working at [Shift Technology](https://shift-technology.com/), a company that uses AI to detect fraud in insurance claims.
 
-I am trying to improve Non-Player Character (NPC) decision making in games through Logic Programming (LP) and ontologies, using a [Prolog inference engine](https://www.swi-prolog.org/) and the [Unity game engine](https://unity.com/). This thesis involves a research collaboration with the independent game studio [Wako Factory](https://www.wakofactory.com/) to test our approach.
+I am also finishing my **PhD in Game Artificial Intelligence** from [Clermont Auvergne University](https://www.uca.fr/) in France. My research involves trying to improve **Non-Player Characters decision making in games** through logic programming and ontologies, using [Prolog](https://www.swi-prolog.org/) and the [Unity](https://unity.com/) game engine.
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
