@@ -6,24 +6,24 @@ title: Sylvain LAPEYRADE
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Game AI
+role: Data Scientist & PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: LIMOS
-  url: https://limos.fr/
+- name: Shift Technology
+  url: https://shift-technology.com
 - name: Clermont Auvergne University
-  url: https://www.uca.fr/
+  url: https://www.uca.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Game Artificial Intelligence, Machine Learning and Data Science.
+bio: My interests include Artificial Intelligence, Data Science, Machine Learning and Games.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Game Artificial Intelligence
-- Machine Learning
 - Data Science
+- Machine Learning
+- Game Artificial Intelligence
 
 # Education to show in About widget
 education:
