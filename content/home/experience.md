@@ -22,30 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: University Teaching Assitant
+  - title: Data Scientist
+    company: Shift Technology
+    company_url: 'https://www.shift-technology.com/'
+    company_logo: shift
+    location: Toronto, Canada
+    date_start: '2023-09-01'
+    date_end:
+    description: Artificial Intelligence to detect fraud in insurance claims
+
+  - title: University Teaching Assitant and Temporary Teacher
     company: Clermont Auvergne University
     company_url: https://www.uca.fr/
     company_logo: uca
-    location : Clermont-Ferrand, France
-    date_start: '2021-10-01'
-    date_end: '2023-09-30'
+    location : Clermont-Ferrand and Vichy, France
+    date_start: '2020-10-01'
+    date_end: '2023-09-01'
     description: |2-
       **MSc 1** -- Object Oriented Programming for a C++ Game with Qt</br>
       **MSc 1** -- Neural Network</br>
-      **BSc 3** -- Video game developement (Complete Course) </br>
-      **BSc 3** -- Artificial Intelligence with machine Learning (2 times)</br>
-      **BSc 2** -- General Object Oriented Programming in Java
-
-  - title: Temporary Teacher (Complete Course)
-    company: Vichy University Centre
-    company_url: https://www.vichy-universite.com/
-    company_logo: vichy
-    location: Vichy, France
-    date_start: '2020-10-01'
-    date_end: '2021-09-30'
-    # date_end: '2021-05-01'
-    # date_start: '2021-03-01'
-    description: "**BSc 2** -- Video game development using the Unity game engine"
+      **BSc 3** -- Video game developement </br>
+      **BSc 3** -- Artificial Intelligence with machine Learning</br>
+      **BSc 2** -- General Object Oriented Programming in Java</br>
+      **BSc 2** -- Video game development using the Unity game engine
 
   - title: Data Science Research Intern
     company: National Institute of Informatics
@@ -54,8 +53,7 @@ experience:
     location: Tokyo, Japan
     date_start: '2020-03-01'
     date_end: '2020-08-01'
-    description: Machine Learning on network data </br>
-                  Data Mining, Analysis & Prediction
+    description: Unsupervised Learning, Data Mining, Data Analysis, Data Vizualisation, Automation
         
   - title: Machine Learning Research Intern
     company: Toulouse Computer Science Research Institute 
@@ -64,8 +62,7 @@ experience:
     location: Toulouse, France
     date_start: '2019-04-01'
     date_end: '2019-07-31'
-    description: Recurrent Neural Network for network intrusion detection </br>
-                Implementing LSTM & GRU with Python, Keras, Tensorflow, etc.
+    description:  Recurrent Neural Networks (LSTM, GRU) for automated network intrusion detection
 
   - title: Software Development Intern
     company: SCLE SFE
@@ -74,8 +71,7 @@ experience:
     location: Toulouse, France
     date_start: '2017-04-01'
     date_end: '2017-06-15'
-    description: Python software development </br>
-                 XML/Binary parser and converter.
+    description: Python software to automate parsing and conversion of XML and Binary code
 
 design:
   columns: '2'
