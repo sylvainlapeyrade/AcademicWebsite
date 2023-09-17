@@ -40,11 +40,11 @@ experience:
     date_end: '2023-09-01'
     description: |2-
       **MSc 1** -- Object Oriented Programming for a C++ Game with Qt</br>
-      **MSc 1** -- Neural Network</br>
-      **BSc 3** -- Video game developement </br>
+      **MSc 1** -- Neurals Networks with Python</br>
+      **BSc 2/3** -- Video game development using Unity and C#</br>
       **BSc 3** -- Artificial Intelligence with machine Learning</br>
       **BSc 2** -- General Object Oriented Programming in Java</br>
-      **BSc 2** -- Video game development using the Unity game engine
+
 
   - title: Data Science Research Intern
     company: National Institute of Informatics
