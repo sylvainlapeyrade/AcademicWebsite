@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/2022_aiide_exag/exag22.pdf'
+url_pdf: 'https://www.exag.org/papers/Demo%20Generate%20Emergent%20NPC%20Behaviours%20With%20Symbolic%20Reasoning.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
