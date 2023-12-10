@@ -1,6 +1,6 @@
 ---
 title: Academic Website
-summary: Static academic website using the Wowchemy Framework.
+summary: Static academic website using the Hugo Blox Framework.
 tags:
 - Development
 date: "2022-03-20"
