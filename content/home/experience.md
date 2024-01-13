@@ -31,6 +31,15 @@ experience:
     date_end:
     description: Artificial Intelligence to detect fraud in insurance claims
 
+  - title: Mentor Data Sciecne
+    company: OpenClassrooms
+    company_url: 'https://openclassrooms.com/'
+    company_logo: openclassrooms
+    location: Remote
+    date_start: '2023-04-07'
+    date_end:
+    description: Tutoring of Data Science students -- Data Analysis, Machine Learning, Data Vizualisation, etc.
+
   - title: University Teaching Assitant and Temporary Teacher
     company: Clermont Auvergne University
     company_url: https://www.uca.fr/
