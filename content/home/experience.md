@@ -31,7 +31,7 @@ experience:
     date_end:
     description: Artificial Intelligence to automate fraud detection in insurance claims
 
-  - title: Mentor Data Sciecne
+  - title: Data Science Mentor
     company: OpenClassrooms
     company_url: 'https://openclassrooms.com/'
     company_logo: openclassrooms
