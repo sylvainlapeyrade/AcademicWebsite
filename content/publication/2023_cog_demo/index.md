@@ -6,6 +6,7 @@ title: "Non-Player Character Decision-Making With Prolog and Ontologies"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Christophe Rey
 # - Robert Ford
 
 # Author notes (optional)
