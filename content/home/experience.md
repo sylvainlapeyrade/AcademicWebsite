@@ -29,7 +29,7 @@ experience:
     location: Toronto, Canada
     date_start: '2023-09-01'
     date_end:
-    description: Artificial Intelligence to detect fraud in insurance claims
+    description: Artificial Intelligence to automate fraud detection in insurance claims
 
   - title: Mentor Data Sciecne
     company: OpenClassrooms
