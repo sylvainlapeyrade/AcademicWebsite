@@ -38,13 +38,13 @@ experience:
     location: Remote
     date_start: '2023-04-07'
     date_end:
-    description: Tutoring of Data Science students -- Data Analysis, Machine Learning, Data Vizualisation, etc.
+    description: Tutoring students -- EDA, Machine Learning, Computer Vision, NLP, Data Viz, Cloud, MLOps, Tableau, Power BI, etc.
 
-  - title: University Teaching Assitant and Temporary Teacher
+  - title: Temporary Teacher & University Teaching Assitant
     company: Clermont Auvergne University
     company_url: https://www.uca.fr/
     company_logo: uca
-    location : Clermont-Ferrand and Vichy, France
+    location : Clermont-Ferrand & Vichy, France
     date_start: '2020-10-01'
     date_end: '2023-09-01'
     description: |2-
@@ -62,7 +62,7 @@ experience:
     location: Tokyo, Japan
     date_start: '2020-03-01'
     date_end: '2020-08-01'
-    description: Unsupervised Learning, Data Mining, Data Analysis, Data Vizualisation, Automation
+    description: Data Mining, EDA, Unsupervised Learning, Data Analysis, Data Viz for network data
         
   - title: Machine Learning Research Intern
     company: Toulouse Computer Science Research Institute 
@@ -73,7 +73,7 @@ experience:
     date_end: '2019-07-31'
     description:  Recurrent Neural Networks (LSTM, GRU) for automated network intrusion detection
 
-  - title: Software Development Intern
+  - title: Software Developer Intern
     company: SCLE SFE
     company_url: 'https://scle.fr/'
     company_logo: scle
