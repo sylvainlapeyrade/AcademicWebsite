@@ -41,7 +41,7 @@ experience:
     description: Tutoring students -- EDA, Machine Learning, Computer Vision, NLP, Data Viz, Cloud, MLOps, Tableau, Power BI, etc.
 
   - title: Temporary Teacher & University Teaching Assitant
-    company: Clermont Auvergne University
+    company: University Clermont Auvergne (UCA)
     company_url: https://www.uca.fr/
     company_logo: uca
     location : Clermont-Ferrand & Vichy, France
@@ -56,7 +56,7 @@ experience:
 
 
   - title: Data Science Research Intern
-    company: National Institute of Informatics
+    company: National Institute of Informatics (NII)
     company_url: 'https://www.nii.ac.jp/'
     company_logo: nii
     location: Tokyo, Japan
