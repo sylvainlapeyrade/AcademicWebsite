@@ -65,7 +65,7 @@ experience:
     description: Data Mining, EDA, Unsupervised Learning, Data Analysis, Data Viz for network data
         
   - title: Machine Learning Research Intern
-    company: Toulouse Computer Science Research Institute 
+    company: Informatics Research Institute of Toulouse (IRIT)
     company_url: 'https://www.irit.fr/'
     company_logo: irit
     location: Toulouse, France
